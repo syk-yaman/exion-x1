@@ -1,0 +1,51 @@
+#TITLE=Java/C#
+; EditPlus Auto-completion file v1.0 written by ES-Computing.
+; This file is provided as a default auto-completion file for Java and C#.
+
+#CASE=y
+
+#T=HLT
+HLT^!
+#T=STC
+STC
+#T=CLC
+CLC
+#T=STZ
+STZ
+#T=CLZ
+CLZ
+#T=MOV
+MOV ^!,
+#T=JMP
+JMP ^!
+#T=JC 
+JC ^!
+#T=JNC
+JNC ^!
+#T=JZ
+JZ ^!
+#T=JNZ
+JNZ ^!
+#T=JS 
+JS ^!
+#T=JNS
+JNS ^!
+#T=ADD
+ADD ACC,^!
+#T=ADC
+ADC ACC,^!
+#T=SUB
+SUB ACC,^!
+#T=AND
+AND ACC,^!
+#T=OR
+OR ACC,^!
+#T=NOT
+NOT
+#T=XOR
+XOR ACC,^!
+#T=CALL
+CALL ^!
+#T=RET  
+RET
+#
